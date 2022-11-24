@@ -6,7 +6,7 @@ export default defineNuxtConfig ({
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Vue3RFsinNuxt2',
+    title: 'h RenderFunctions in Nuxt2',
     htmlAttrs: {
       lang: 'en'
     },
