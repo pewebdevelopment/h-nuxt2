@@ -1,5 +1,4 @@
-# Vue3RFsinNuxt2
-
+# Render Functions h in Nuxt2
 ## Build Setup
 
 ```bash
